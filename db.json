@@ -1,5 +1,3 @@
-{
-  "GameConfigData": [
     {
       "livesAtSessionStart": 2,
       "maxNoOfLivesPerSession": 4,
@@ -15,6 +13,5 @@
       "YetiPrice": 100,
       "WoodCutterPrice": 100,
       "ThiefPrice": 100
-    }
-  ]  
-}
+    } 
+

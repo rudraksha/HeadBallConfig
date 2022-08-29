@@ -10,8 +10,8 @@
   "adconfig": 
     {
       "gameADInterval": 3,
-      "interstitialIntervalInSecs": 3,
-      "interstitialDisplayDelayInSecs": 3
+      "interstitialIntervalInSecs": 30,
+      "interstitialDisplayDelayInSecs": 1.5
     },
   "customizationConfig": 
     {

@@ -1,6 +1,6 @@
 {
-"posts": [
-      {
+  "posts": [
+    {
       "livesAtSessionStart": 2,
       "maxNoOfLivesPerSession": 4,
       "policyURL": "https://whitecoffeegames.wixsite.com/headballbalance/privacypolicy",
@@ -15,6 +15,6 @@
       "YetiPrice": 100,
       "WoodCutterPrice": 100,
       "ThiefPrice": 100
-      } 
-      ]
+    }
+  ]
 }

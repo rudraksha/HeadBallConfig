@@ -17,9 +17,9 @@
     {
       "bearPrice": 100,
       "ninjaPrice": 100,
-      "CapDudePrice": 100,
-      "YetiPrice": 100,
-      "WoodCutterPrice": 100,
-      "ThiefPrice": 50
+      "capDudePrice": 100,
+      "yetiPrice": 100,
+      "woodCutterPrice": 100,
+      "thiefPrice": 50
     }
 }

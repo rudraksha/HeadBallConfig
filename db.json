@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "GameConfigData": [
     {
-      "id": 1,
+      "livesAtSessionStart": 2,
       "title": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]  
 }

@@ -3,7 +3,7 @@
     {
       "livesAtSessionStart": 2,
       "maxNoOfLivesPerSession": 4,
-      "policyURL": https://whitecoffeegames.wixsite.com/headballbalance/privacypolicy,
+      "policyURL": "https://whitecoffeegames.wixsite.com/headballbalance/privacypolicy",
       "coinWeight": 3,
       "lifeWeight": 3
     },

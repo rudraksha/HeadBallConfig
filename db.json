@@ -5,7 +5,8 @@
       "maxNoOfLivesPerSession": 4,
       "policyURL": "https://whitecoffeegames.wixsite.com/headballbalance/privacypolicy",
       "coinWeight": 3,
-      "lifeWeight": 3
+      "lifeWeight": 3,
+      "closeOnNoInternetConnection": false
     },
   "adconfig": 
     {

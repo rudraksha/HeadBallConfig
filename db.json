@@ -16,11 +16,11 @@
     },
   "customizationConfig": 
     {
-      "capDudePrice": 0,
-      "thiefPrice": 2,
-      "ninjaPrice": 2,
-      "woodCutterPrice": 2,
-      "bearPrice": 2,
-      "yetiPrice": 2
+      "capDudePrice": 10,
+      "thiefPrice": 20,
+      "ninjaPrice": 20,
+      "woodCutterPrice": 30,
+      "bearPrice": 40,
+      "yetiPrice": 60
     }
 }

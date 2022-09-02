@@ -42,9 +42,9 @@
           "orderAndroid": 1,
           "orderiOS": 1,
           "orderWindows": 1,
-          "weightAndroid": 25,
-          "weightiOS": 25,
-          "weightWindows": 25
+          "weightAndroid": 50,
+          "weightiOS": 50,
+          "weightWindows": 50
         },
         "rewardedSettings": {
           "adType": 3,
@@ -73,9 +73,9 @@
           "orderAndroid": 2,
           "orderiOS": 2,
           "orderWindows": 2,
-          "weightAndroid": 25,
-          "weightiOS": 25,
-          "weightWindows": 25
+          "weightAndroid": 50,
+          "weightiOS": 50,
+          "weightWindows": 50
         },
         "rewardedSettings": {
           "adType": 3,
@@ -104,9 +104,9 @@
           "orderAndroid": 0,
           "orderiOS": 0,
           "orderWindows": 0,
-          "weightAndroid": 50,
-          "weightiOS": 50,
-          "weightWindows": 50
+          "weightAndroid": 0,
+          "weightiOS": 0,
+          "weightWindows": 0
         },
         "rewardedSettings": {
           "adType": 3,

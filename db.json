@@ -1,129 +1,123 @@
 {
-  "gameInitialConfig": 
-    {
-      "livesAtSessionStart": 2,
-      "maxNoOfLivesPerSession": 4,
-      "policyURL": "https://whitecoffeegames.wixsite.com/headballbalance/privacypolicy",
-      "coinWeight": 3,
-      "lifeWeight": 3      
-    },
-  "adconfig": 
-    {
-      "gameADInterval": 3,
-      "interstitialIntervalInSecs": 30,
-      "interstitialDisplayDelayInSecs": 1.5,
-      "closeOnNoInternetConnection": false
-    },
-  "customizationConfig": 
-    {
-      "capDudePrice": 10,
-      "thiefPrice": 20,
-      "ninjaPrice": 20,
-      "woodCutterPrice": 30,
-      "bearPrice": 40,
-      "yetiPrice": 60
-    },
-  "MediationSettings":
-  {
+  "gameInitialConfig": {
+    "livesAtSessionStart": 2,
+    "maxNoOfLivesPerSession": 4,
+    "policyURL": "https://whitecoffeegames.wixsite.com/headballbalance/privacypolicy",
+    "coinWeight": 3,
+    "lifeWeight": 3
+  },
+  "adconfig": {
+    "gameADInterval": 3,
+    "interstitialIntervalInSecs": 30,
+    "interstitialDisplayDelayInSecs": 1.5,
+    "closeOnNoInternetConnection": false
+  },
+  "customizationConfig": {
+    "capDudePrice": 10,
+    "thiefPrice": 20,
+    "ninjaPrice": 20,
+    "woodCutterPrice": 30,
+    "bearPrice": 40,
+    "yetiPrice": 60
+  },
+  "mediationSettings": {
+    "bannerMediation": 0,
+    "interstitialMediation": 1,
+    "rewardedMediation": 0,
+    "advertisers": [
       {
-      "bannerMediation": 0,
-      "interstitialMediation": 1,
-      "rewardedMediation": 0,
-      "advertisers": [
-        {
-          "advertiser": 6,
-          "advertiserName": "AppLovin",
-          "bannerSettings": {
-            "adType": 1,
-            "orderAndroid": 0,
-            "orderiOS": 0,
-            "orderWindows": 0,
-            "weightAndroid": 0,
-            "weightiOS": 0,
-            "weightWindows": 0
-          },
-          "interstitialSettings": {
-            "adType": 2,
-            "orderAndroid": 1,
-            "orderiOS": 1,
-            "orderWindows": 1,
-            "weightAndroid": 61,
-            "weightiOS": 61,
-            "weightWindows": 61
-          },
-          "rewardedSettings": {
-            "adType": 3,
-            "orderAndroid": 0,
-            "orderiOS": 0,
-            "orderWindows": 0,
-            "weightAndroid": 0,
-            "weightiOS": 0,
-            "weightWindows": 0
-          }
+        "advertiser": 6,
+        "advertiserName": "AppLovin",
+        "bannerSettings": {
+          "adType": 1,
+          "orderAndroid": 0,
+          "orderiOS": 0,
+          "orderWindows": 0,
+          "weightAndroid": 0,
+          "weightiOS": 0,
+          "weightWindows": 0
         },
-        {
-          "advertiser": 4,
-          "advertiserName": "Unity",
-          "bannerSettings": {
-            "adType": 1,
-            "orderAndroid": 0,
-            "orderiOS": 0,
-            "orderWindows": 0,
-            "weightAndroid": 1,
-            "weightiOS": 1,
-            "weightWindows": 1
-          },
-          "interstitialSettings": {
-            "adType": 2,
-            "orderAndroid": 2,
-            "orderiOS": 2,
-            "orderWindows": 2,
-            "weightAndroid": 60,
-            "weightiOS": 60,
-            "weightWindows": 60
-          },
-          "rewardedSettings": {
-            "adType": 3,
-            "orderAndroid": 0,
-            "orderiOS": 0,
-            "orderWindows": 0,
-            "weightAndroid": 1,
-            "weightiOS": 1,
-            "weightWindows": 1
-          }
+        "interstitialSettings": {
+          "adType": 2,
+          "orderAndroid": 1,
+          "orderiOS": 1,
+          "orderWindows": 1,
+          "weightAndroid": 61,
+          "weightiOS": 61,
+          "weightWindows": 61
         },
-        {
-          "advertiser": 0,
-          "advertiserName": "Admob",
-          "bannerSettings": {
-            "adType": 1,
-            "orderAndroid": 0,
-            "orderiOS": 0,
-            "orderWindows": 0,
-            "weightAndroid": 0,
-            "weightiOS": 0,
-            "weightWindows": 0
-          },
-          "interstitialSettings": {
-            "adType": 2,
-            "orderAndroid": 0,
-            "orderiOS": 0,
-            "orderWindows": 0,
-            "weightAndroid": 82,
-            "weightiOS": 82,
-            "weightWindows": 82
-          },
-          "rewardedSettings": {
-            "adType": 3,
-            "orderAndroid": 0,
-            "orderiOS": 0,
-            "orderWindows": 0,
-            "weightAndroid": 0,
-            "weightiOS": 0,
-            "weightWindows": 0
-          }
+        "rewardedSettings": {
+          "adType": 3,
+          "orderAndroid": 0,
+          "orderiOS": 0,
+          "orderWindows": 0,
+          "weightAndroid": 0,
+          "weightiOS": 0,
+          "weightWindows": 0
         }
-      ]
-    }
+      },
+      {
+        "advertiser": 4,
+        "advertiserName": "Unity",
+        "bannerSettings": {
+          "adType": 1,
+          "orderAndroid": 0,
+          "orderiOS": 0,
+          "orderWindows": 0,
+          "weightAndroid": 1,
+          "weightiOS": 1,
+          "weightWindows": 1
+        },
+        "interstitialSettings": {
+          "adType": 2,
+          "orderAndroid": 2,
+          "orderiOS": 2,
+          "orderWindows": 2,
+          "weightAndroid": 60,
+          "weightiOS": 60,
+          "weightWindows": 60
+        },
+        "rewardedSettings": {
+          "adType": 3,
+          "orderAndroid": 0,
+          "orderiOS": 0,
+          "orderWindows": 0,
+          "weightAndroid": 1,
+          "weightiOS": 1,
+          "weightWindows": 1
+        }
+      },
+      {
+        "advertiser": 0,
+        "advertiserName": "Admob",
+        "bannerSettings": {
+          "adType": 1,
+          "orderAndroid": 0,
+          "orderiOS": 0,
+          "orderWindows": 0,
+          "weightAndroid": 0,
+          "weightiOS": 0,
+          "weightWindows": 0
+        },
+        "interstitialSettings": {
+          "adType": 2,
+          "orderAndroid": 0,
+          "orderiOS": 0,
+          "orderWindows": 0,
+          "weightAndroid": 82,
+          "weightiOS": 82,
+          "weightWindows": 82
+        },
+        "rewardedSettings": {
+          "adType": 3,
+          "orderAndroid": 0,
+          "orderiOS": 0,
+          "orderWindows": 0,
+          "weightAndroid": 0,
+          "weightiOS": 0,
+          "weightWindows": 0
+        }
+      }
+    ]
   }
 }

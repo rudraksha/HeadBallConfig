@@ -8,7 +8,7 @@
   },
   "adconfig": {
     "gameADInterval": 3,
-    "interstitialIntervalInSecs": 60,
+    "interstitialIntervalInSecs": 40,
     "interstitialDisplayDelayInSecs": 1.5,
     "closeOnNoInternetConnection": false
   },

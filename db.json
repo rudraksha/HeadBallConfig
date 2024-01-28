@@ -13,12 +13,12 @@
     "closeOnNoInternetConnection": false
   },
   "customizationConfig": {
-    "capDudePrice": 10,
-    "thiefPrice": 20,
-    "ninjaPrice": 20,
-    "woodCutterPrice": 30,
-    "bearPrice": 40,
-    "yetiPrice": 60
+    "capDudePrice": 30,
+    "thiefPrice": 50,
+    "ninjaPrice": 80,
+    "woodCutterPrice": 130,
+    "bearPrice": 200,
+    "yetiPrice": 300
   },
   "mediationSettings": {
     "bannerMediation": 0,
